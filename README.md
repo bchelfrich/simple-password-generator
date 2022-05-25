@@ -1,6 +1,6 @@
 # simple-password-generator
  
-A simple password generator written in Python.
-You can set the parameters.
-You can set how many passwords it will generate.
-You can set the password length.
+A simple password generator written in Python.\n
+You can set the parameters.\n
+You can set how many passwords it will generate.\n
+You can set the password length.\n
